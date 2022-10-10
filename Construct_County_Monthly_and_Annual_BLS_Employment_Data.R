@@ -1,10 +1,10 @@
+## Code to construct county level monthly and annual BLS employment data 
+## Matthew Fitzgerald
+
 library(stringr)
 library(dplyr)
 
 
-############################################################
-##### Construct county level monthly unemployment data 
-############################################################
 
 ## Get raw employment data from the bls
 bls_county_raw <- read.delim("https://download.bls.gov/pub/time.series/la/la.data.64.County",

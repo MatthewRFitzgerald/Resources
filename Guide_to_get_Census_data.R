@@ -1,4 +1,4 @@
-##Code to get American Community Survey Data using Census API
+## Code to get American Community Survey Data using Census API
 ## Matthew Fitzgerald
 ## March 1, 2021
 
